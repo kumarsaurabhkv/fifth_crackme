@@ -1,0 +1,8 @@
+hello the correct name and password need to satisfy next requierments
+1)the length need to be at least 5 characters of the name and of the password(the progrma doesnt check if they bouth the same length but its will not pass the check password function if not)
+2)the name contains only capital letters
+3)the password can be digits or capital letters or both for every letter in name its one digit or letter in password
+example the name AAACD so the correct password can be 00023 or 02300 or 0AA32 the order of password doesnt matter 
+its even can be the same as name every letter in name can be a digit in password but only from A-J because after J
+there is no digit that after because the last digit its 9 and there is no digit for the tens or elevens letter etc
+ 
